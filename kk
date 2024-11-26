@@ -1,0 +1,1 @@
+vless://20eb6675-6685-5050-a488-f76206077417@vpn.2a24843432.workers.dev:2096?path=vless-ws%2F%3Fed%3D2048&security=tls&encryption=none&alpn=h2&host=vpn.2a24843432.worKERS.deV&fp=android&type=ws&sni=vpn.2a24843432.worKERS.deV#%D8%A8%D8%A7%D8%AD+%D8%A8%D8%A7%D8%AD
